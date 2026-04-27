@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miteshgavhankar
-- 👀 I’m interested in Python Developement & Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on DS
+- 👀 I’m Java, Spring Boot Developer.
+- 🌱 I’m currently learning DSA.
 
 
 <!---
